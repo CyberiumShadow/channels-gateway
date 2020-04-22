@@ -24,7 +24,7 @@
   },
   "peerDependencies": {
     "discord.js": "github:discordjs/discord.js",
-    "klasa": "github:dirigeants/klasa#settings"
+    "klasa": "github:dirigeants/klasa#sgn"
   },
   "devDependencies": {
     "@kcp/lint": "github:KlasaCommunityPlugins/lint-files",
